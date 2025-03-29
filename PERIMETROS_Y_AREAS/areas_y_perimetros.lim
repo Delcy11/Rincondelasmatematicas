@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>PERIMETROS_Y_AREAS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>8FDBF8</corbanda>
+        <cornavega>5ED3EC</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Aprendamos con geométria.</titulo>
+        <subtitulo>Perímetros y áreas.</subtitulo>
+        <autor>Delcy De La Asunción Coronado</autor>
+        <logo>LOGO.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>15</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cfondo>84E1FD</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Definición perímetro" imaxe="4.png"><![CDATA[]]></menu>
+              <menu boton="Ejemplo" imaxe="5.png"><![CDATA[]]></menu>
+              <menu boton="Video"><![CDATA[<font size="12"><center><br><center><h3> ¿Qué es el perímetro? </H3><br><iframe width="560" height="315" src="https://www.youtube.com/embed/rXFG21ZBGdk?si=bYU7JVJdSk5mgBlB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></center></font>]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe>perimetro_2.jpg</imaxe>
+              <texto>Ejercicio.
+¿Cuál es el perímetro de la siguiente figura geométrica?</texto>
+              <resp texto="" valor="0">20cm</resp>
+              <resp texto="" valor="0">32cm</resp>
+              <resp texto="" valor="1">18cm</resp>
+              <resp texto="" valor="0">17cm</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>14</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <mais ir="">Arrastra la imagen correspondiente al valor de su perímetro.</mais>
+              <peza imaxe="perimetro_7.png" texto="" son="">respuesta_1.png</peza>
+              <peza imaxe="perimetro_6.png" texto="" son="">respuesta_2.png</peza>
+              <peza imaxe="perimetro_triangulo.png" texto="" son="">respuesta_9cm.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>15</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cfondo>84E1FD</cfondo>
+              <ctexto>000000</ctexto>
+              <menu boton="Definición de área" imaxe="7.png"><![CDATA[]]></menu>
+              <menu boton="Ejemplo " imaxe="8.png"><![CDATA[]]></menu>
+              <menu boton="Fórmulas" imaxe="9.png"><![CDATA[]]></menu>
+              <menu boton="Video"><![CDATA[<font size="12"><center><h3> ¿Qué es el área? </H3><br><iframe width="560" height="315" src="https://www.youtube.com/embed/TZDgCnfDrIE?si=Bp1czCyB8FlCFTTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></center></font>]]></menu>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="5" >
+              <tipo>10</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <mais ir="">¿Cuál es el área?</mais>
+              <imaxe>pregunta.png</imaxe>
+              <pregunta res="6">¿Cual es el área?</pregunta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>10</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe>pregunta_2.png</imaxe>
+              <pregunta res="7">¿Cuál es el área?</pregunta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>10</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <imaxe>pregunta_3.png</imaxe>
+              <pregunta res="4">¿Cuál es el área?</pregunta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+            <nonpasar atras="1" >1</nonpasar>
+              <imaxe posx="0" posy="52">10.png</imaxe>
+        </paxina>
+    </libro>
+</lim>

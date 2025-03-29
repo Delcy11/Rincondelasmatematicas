@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\PC-JGTECHNET\Documents\PROGRAMACION WEB\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+        <logo>..\..\edilim564\LOGO.png</logo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+    </libro>
+</lim>
